@@ -1,31 +1,22 @@
-# 👋 Hi there, I'm Anthony! 
-
 ## 🚀 About Me
-I'm a passionate software engineer who loves to think outside the box! 📦 I enjoy working with technologies like React, Node.js, APIs, AI and Cloud Computing to create amazing projects that solve real-world problems. 
+I'm a passionate software engineer who loves to think outside the box! 📦 Skilled in React, Node.js, APIs, AI and Cloud Computing. 
 
 ## 💻 Skills
-- 🌐 JavaScript & TypeScript
-- 🖥️ REST APIs
-- ⚛️ React & Node.js
-- 📈 Project Management
-- 🤝 Customer Support
-- 🎓 Intern Mentor
-- ☁️ AWS Lambda
+- 🌐 JavaScript & TypeScript | 🖥️ REST APIs | ⚛️ React & Node.js
+- 📈 Project Management | 🤝 Customer Support | 🎓 Intern Mentor | ☁️ AWS Lambda
 
 ## 🔧 Experience
 ### Software Engineer
-I've worked directly with clients and business partners, such as SREs and Project Managers, to refine project goals and deliver tailored insights. I'm comfortable with Jira tickets, story points, and developing in JavaScript (Node.js). I also enjoy documenting my work and presenting it to the wider company.
+Worked with clients and business partners to refine project goals and deliver tailored insights. Proficient in Jira, Documentation, and presenting to the wider company.
 
 ### Accomplishments
-- 🎯 Adapted to projects with limited details and access to third-party platforms
-- 🐛 Debugged escalated Jira issues, tested with Jest, and PRed fixes within two hours
-- 🌩️ Utilized AWS services like Lambda and DynamoDB to build serverless, efficient, and scalable back-end architectures
-- 🔌 Built integrations for GCP, Azure DevOps, Artifactory, Cisco DNA, GitLab, Foglight, and 1Password
+- 🎯 Adapted to projects with limited details and third-party platforms
+- 🌩️ Utilized AWS services to build serverless, efficient, and scalable back-end architectures
 - 👨‍🏫 Mentored Summer Interns, co-developed code, and conducted daily meetings and reviews
-- ⏰ Maximized processing and requests within time-limited windows
+- 🔌 Built integrations for GCP, Azure DevOps, Artifactory, Cisco DNA, GitLab, Foglight, and 1Password
 
 ### 404Games - 404 Wasteland
-As a Game Mod Developer, I collaborated with two other developers to create a highly successful game modification (mod) for Arma2 OA. We used GitHub for version control and incorporated community suggestions. This mod became the most played game modes with over 1,000 concurrent players across hundreds of dedicated servers!
+Co-developed a highly successful game mod for Arma2 OA, which became the one of the most played game modes with over 1,000 concurrent players.
 
 ## 🎓 Certifications
 - AWS Certified Developer - Associate Certification (January 2024)
